@@ -1,7 +1,7 @@
 // CSCI 1300 Spring 2023
 //Author: Jeremiah Heredia
 //Recitation: 102- Tuan Tran
-// Homework 5 Problem 3
+// Homework 5 Problem 3a
 
 
 #include <iostream>
